@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/waveGuru/static/css/main.93501613.css",
-    "main.js": "/waveGuru/static/js/main.1dab0259.js",
+    "main.js": "/waveGuru/static/js/main.e6e29281.js",
     "static/js/453.ed3810f9.chunk.js": "/waveGuru/static/js/453.ed3810f9.chunk.js",
     "static/media/video1.mp4": "/waveGuru/static/media/video1.073a5eeb153a13fdcf79.mp4",
     "static/media/video.mp4": "/waveGuru/static/media/video.8337074d58556d73be58.mp4",
@@ -22,11 +22,11 @@
     "static/media/img9.jpg": "/waveGuru/static/media/img9.5340d4ef1774678969af.jpg",
     "index.html": "/waveGuru/index.html",
     "main.93501613.css.map": "/waveGuru/static/css/main.93501613.css.map",
-    "main.1dab0259.js.map": "/waveGuru/static/js/main.1dab0259.js.map",
+    "main.e6e29281.js.map": "/waveGuru/static/js/main.e6e29281.js.map",
     "453.ed3810f9.chunk.js.map": "/waveGuru/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93501613.css",
-    "static/js/main.1dab0259.js"
+    "static/js/main.e6e29281.js"
   ]
 }
